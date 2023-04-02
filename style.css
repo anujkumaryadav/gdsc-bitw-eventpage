@@ -7,7 +7,7 @@
     height: 100vh;
     overflow-x: hidden;
     overflow-y: auto;
-    perspective: 10px;
+    perspective: 11px;
 }
 
 .container{
@@ -138,5 +138,5 @@ section{
     justify-content: center;
     margin-top: 20px;
     margin-bottom: 10px;
-    transform: translate(39%);
+    transform: translate(41%);
 }
